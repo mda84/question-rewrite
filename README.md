@@ -20,7 +20,13 @@ This repository contains the code and resources for developing a question rewrit
 - **models/**: Directory to store trained models and tokenizers.
 - **src/**: Contains scripts for data processing, model training, and evaluation.
 
-## How to Run the Project
+## Pre-trained Models and Tokenizers
+
+The trained models and tokenizers used in this project are too large to be stored on GitHub. You can download them from the following Google Drive link:
+
+- [Download Pre-trained BART Model and Tokenizer](https://drive.google.com/your-link-here)
+
+After downloading, place the models in the `models/` directory within this repository to ensure that the paths align with the code.
 
 1. **Clone the Repository:**
    ```bash

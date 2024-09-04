@@ -26,7 +26,7 @@ The trained models and tokenizers used in this project are too large to be store
 
 - [Download Pre-trained models](https://drive.google.com/drive/folders/1zrqx6z3vYqz5haGKvfPChg-F7xr6XlXI?usp=sharing)
 
-After downloading, place the models in the `models/` directory within this repository to ensure that the paths align with the code.
+After downloading, place the DisflQA_Models folder in the `models/` directory within this repository to ensure that the paths align with the code.
 
 1. **Clone the Repository:**
    ```bash

@@ -18,7 +18,6 @@ This repository contains the code and resources for developing a question rewrit
 - **test.ipynb:** Notebook for testing the best-performing BART model on the test set.
 - **data/**: Directory containing dataset files.
 - **models/**: Directory to store trained models and tokenizers.
-- **src/**: Contains scripts for data processing, model training, and evaluation.
 
 ## Pre-trained Models and Tokenizers
 

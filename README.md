@@ -1,8 +1,8 @@
-# DisflQA-QuestionRewrite
+# Question Rewrite
 
 This repository contains the code and resources for developing a question rewrite model for the Disfl QA benchmark dataset. The objective of this project is to handle noisy questions in conversational workflows and accurately rewrite them to enhance question-answering systems.
 
-## Assignment Overview
+## Overview
 
 - **Objective:** Develop a question rewrite model for the Disfl QA dataset.
 - **Datasets:** 
